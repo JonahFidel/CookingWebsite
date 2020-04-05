@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h3 {
+    text-align:left;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-top: 2em;
+}
+
+.container {
+    margin: 0 25em;
+}
